@@ -1,5 +1,5 @@
 .featured {
-    height: 100vh;
+    height: 50vh;
 }
 
 .featured--vertical {
@@ -51,6 +51,6 @@
     display: inline-block;
     font-size: 20px;
     font-weight: bold;
-    padding: 1;
+    padding: 15px;
 }
 
